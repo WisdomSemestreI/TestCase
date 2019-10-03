@@ -2,8 +2,12 @@ Use Story / ID Requirement ID:
 As Iron Man Suit Pilot, I want that my air flaps have 0� to 85� degrees of opening for better flying control.
 
 Is it Valid?:
+No.
 
 If not valid, what is the new / Extra information from Marketing / Product Owner?:
+The flips move at the same time and to the same angle. 
+The flips have sensors at 0 and 85 degrees.
+The flips have 5 degrees steps from actual angle to wanted angle.
 
 User Story / Requirement Under Test:
 
