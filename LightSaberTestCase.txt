@@ -1,9 +1,14 @@
 Use Story / ID Requirement ID:
-As Sith Knight, I want that my light saber firmware turns off my saber when cyber cristal gets overheated.�
+As Sith Knight, I want that my light saber firmware turns off my saber when cyber cristal gets overheated.
 
 Is it Valid?:
+No
 
 If not valid, what is the new / Extra information from Marketing / Product Owner?:
+Overheated is when the temperature reaches 150 degrees celsius. 
+The initial temperature is 100 degrees celsius.
+The saber increases 10 degrees per minute activated.
+After the saber is turned off if overheated, it cannot be activated until one minute has passed from turning off. 
 
 User Story / Requirement Under Test:
 
