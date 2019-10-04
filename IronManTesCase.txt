@@ -1,1 +1,27 @@
-As Iron Man Suit Pilot, I want that my air flaps have 0¼ to 85¼ degrees of opening for better flying control.Use Story / ID Requirement ID:Is it Valid?:If not valid, what is the new / Extra information from Marketing / Product Owner?:User Story / Requirement Under Test:Test Case ID:Test Case Name:Test Case Steps (Step Number, Step Description, Expected Result):
+As Iron Man Suit Pilot, I want that my air flaps have 0 to 85 degrees of opening for better flying control.
+Use Story / ID Requirement ID:
+
+Is it Valid?:
+
+If not valid, what is the new / Extra information from Marketing / Product Owner?:
+
+User Story / Requirement Under Test:
+
+Test Case ID:
+
+Test Case Name:
+
+Test Case Steps (Step Number, Step Description, Expected Result):
+
+
+
+
+
+
+
+
+
+
+
+
+
