@@ -1,5 +1,5 @@
 Use Story / ID Requirement ID:
-As Iron Man Suit Pilot, I want that my air flaps have 0� to 85� degrees of opening for better flying control.
+As Iron Man Suit Pilot, I want that my air flaps have 0 to 85 degrees of opening for better flying control.
 
 Is it Valid?:
 No.
