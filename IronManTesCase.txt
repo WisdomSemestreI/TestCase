@@ -8,6 +8,8 @@ If not valid, what is the new / Extra information from Marketing / Product Owner
 The flips move at the same time and to the same angle. 
 The flips have sensors at 0 and 85 degrees.
 The flips have 5 degrees steps from actual angle to wanted angle.
+The flips move at the manipulation of two buttons, one for increasing and one for decreasing with the minimum of 0 and maximum of 85 degrees. 
+When turned off, the flips return to initial position of 0 degrees. 
 
 User Story / Requirement Under Test:
 
